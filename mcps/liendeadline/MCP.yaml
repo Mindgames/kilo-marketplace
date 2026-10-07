@@ -5,6 +5,8 @@ description: US mechanics lien and preliminary notice deadlines for construction
 author: LienDeadline
 url: https://github.com/LienDeadline/liendeadline-mcp
 category: business
+skills:
+  - liendeadline
 content:
   - name: NPX
     prerequisites:
